@@ -1,4 +1,4 @@
-#                                          SUBSETS OF A SET(EXPONENTIAL TIME COMPLEXITY)
+#                                          GETTING THE SET OF ALL SUBSETS OF A SET(EXPONENTIAL TIME COMPLEXITY)
 def get_subsets(L):
     if len(L) == 0:
         return [[]]
