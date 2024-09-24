@@ -16,4 +16,4 @@
 [L9-L10 UNDERSTANDING EXPERIMENTAL DATA](https://github.com/Artur-Arstamyan/MIT-courses/blob/main/MIT-6.0002/L9-L10%20UNDERSTANDING%20EXPERIMENTAL%20DATA.py)    
 [L11 Intro to Machine Learning](https://github.com/Artur-Arstamyan/MIT-courses/blob/main/MIT-6.0002/L11%20Intro%20to%20Machine%20Learning.py)  
 [L12 Clustering](https://github.com/Artur-Arstamyan/MIT-courses/blob/main/MIT-6.0002/L12%20Clustering.py)  
-L13 Classification, L14 Statistical sins, L15 Wrap up
+[L13 Classification, L14 Statistical sins, L15 Wrap up](https://github.com/Artur-Arstamyan/MIT-courses/blob/main/MIT-6.0002/L13-L15.py)  
