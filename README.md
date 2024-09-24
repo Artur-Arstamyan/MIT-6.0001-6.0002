@@ -1,21 +1,19 @@
-# MIT 6.0001 Introduction to Computer Science and Programming in Python  
-https://youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA&si=ULqA_hGPTYbGPfHA  
+# [MIT 6.0001 Introduction to Computer Science and Programming in Python](https://youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA&si=ULqA_hGPTYbGPfHA)  
 FINDING CUBE ROOT OF THE INPUT WITH GIVEN MAX ERROR BY BISECTION SEARCH  
-TOWERS OF HANOI, FIBONACCI NUMBERS DYNAMIC RECURSION, FUNCTION CHECKING PALINDROME STRINGS, DICTIONARY PROBLEMS  
-TRY EXCEPT ELSE FINALLY ASSERT  
-CLASSES,  INHERITANCE  
-[BISECTION SEARCH](MIT-6.0001/Bisection search.py)  
-GETTING SUBSETS OF A SET  
-SORTING ALGORITHMS(BUBBLE, SELECTION, MERGE)
-# MIT 6.0002 Introduction to Computational Thinking and Data Science  
-https://youtube.com/playlist?list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd&si=_ugMVJ3qwj9Lh_im  
-L2 KNAPSACK PROBLEM GREEDY ALGORITHM DYNAMIC PROGRAMMING  
-L3 Graph-theoretic models  
-L4 Stochastic thinking  
-L5 RANDOM WALKS  
-L6 MONTE CARLO SIMULATION, L7 CONFIDENCE INTERVALS  
-L8 SAMPLING AND STANDARD ERRORS  
-L9-L10 UNDERSTANDING EXPERIMENTAL DATA    
-L11 Intro to Machine Learning  
-L12 Clustering  
+[TOWERS OF HANOI, FIBONACCI NUMBERS DYNAMIC RECURSION, FUNCTION CHECKING PALINDROME STRINGS, DICTIONARY PROBLEMS](https://github.com/Artur-Arstamyan/MIT-courses/blob/main/MIT-6.0001/Different%20functions.py)  
+[EXCEPTION HANDLING](https://github.com/Artur-Arstamyan/MIT-courses/blob/main/MIT-6.0001/Exception%20handling.py)  
+[CLASSES,  INHERITANCE](https://github.com/Artur-Arstamyan/MIT-courses/blob/main/MIT-6.0001/Classes%2C%20Inheritance.py)    
+[BISECTION SEARCH](https://github.com/Artur-Arstamyan/MIT-courses/blob/main/MIT-6.0001/Bisection%20search.py)  
+[THE POWER SET OF A SET](https://github.com/Artur-Arstamyan/MIT-courses/blob/main/MIT-6.0001/The%20power%20set%20of%20a%20set.py)  
+[SORTING ALGORITHMS(BUBBLE, SELECTION, MERGE)](https://github.com/Artur-Arstamyan/MIT-courses/blob/main/MIT-6.0001/Sorting%20algorithms.py)
+# [MIT 6.0002 Introduction to Computational Thinking and Data Science](https://youtube.com/playlist?list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd&si=_ugMVJ3qwj9Lh_im)    
+[L2 KNAPSACK PROBLEM GREEDY ALGORITHM DYNAMIC PROGRAMMING](https://github.com/Artur-Arstamyan/MIT-courses/blob/main/MIT-6.0002/L2%20KNAPSACK%20PROBLEM%20GREEDY%20ALGORITHM%20DYNAMIC%20PROGRAMMING.py)  
+[L3 Graph-theoretic models](https://github.com/Artur-Arstamyan/MIT-courses/blob/main/MIT-6.0002/L3%20Graph-theoretic%20models.py)  
+[L4 Stochastic thinking](https://github.com/Artur-Arstamyan/MIT-courses/blob/main/MIT-6.0002/L4%20Stochastic%20thinking.py)
+[L5 RANDOM WALKS](https://github.com/Artur-Arstamyan/MIT-courses/blob/main/MIT-6.0002/L5%20RANDOM%20WALKS.py)  
+[L6 MONTE CARLO SIMULATION, L7 CONFIDENCE INTERVALS](https://github.com/Artur-Arstamyan/MIT-courses/blob/main/MIT-6.0002/L6-L7.py)  
+[L8 SAMPLING AND STANDARD ERRORS](https://github.com/Artur-Arstamyan/MIT-courses/blob/main/MIT-6.0002/L8%20SAMPLING%20AND%20STANDARD%20ERRORS.py)  
+[L9-L10 UNDERSTANDING EXPERIMENTAL DATA](https://github.com/Artur-Arstamyan/MIT-courses/blob/main/MIT-6.0002/L9-L10%20UNDERSTANDING%20EXPERIMENTAL%20DATA.py)    
+[L11 Intro to Machine Learning](https://github.com/Artur-Arstamyan/MIT-courses/blob/main/MIT-6.0002/L11%20Intro%20to%20Machine%20Learning.py)  
+[L12 Clustering](https://github.com/Artur-Arstamyan/MIT-courses/blob/main/MIT-6.0002/L12%20Clustering.py)  
 L13 Classification, L14 Statistical sins, L15 Wrap up
