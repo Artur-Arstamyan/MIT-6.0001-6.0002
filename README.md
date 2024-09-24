@@ -1,5 +1,5 @@
 # [MIT 6.0001 Introduction to Computer Science and Programming in Python](https://youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA&si=ULqA_hGPTYbGPfHA)  
-FINDING CUBE ROOT OF THE INPUT WITH GIVEN MAX ERROR BY BISECTION SEARCH  
+[FINDING CUBE ROOT OF THE INPUT WITH GIVEN MAX ERROR BY BISECTION SEARCH](https://github.com/Artur-Arstamyan/MIT-courses/blob/main/MIT-6.0001/Different%20functions.py)  
 [TOWERS OF HANOI, FIBONACCI NUMBERS DYNAMIC RECURSION, FUNCTION CHECKING PALINDROME STRINGS, DICTIONARY PROBLEMS](https://github.com/Artur-Arstamyan/MIT-courses/blob/main/MIT-6.0001/Different%20functions.py)  
 [EXCEPTION HANDLING](https://github.com/Artur-Arstamyan/MIT-courses/blob/main/MIT-6.0001/Exception%20handling.py)  
 [CLASSES,  INHERITANCE](https://github.com/Artur-Arstamyan/MIT-courses/blob/main/MIT-6.0001/Classes%2C%20Inheritance.py)    
